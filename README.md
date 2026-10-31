@@ -1,6 +1,6 @@
 # Robot vacuum height and door-sill data
 
-Each maker's published height, door-sill (threshold) rating, rug figure and maximum suction rating for 30 robot
+Each maker's published height, door-sill (threshold) rating, rug figure and maximum suction rating for 32 robot
 vacuums sold in the US, with the maker's source page and the date we read it. Collected by
 [Sill & Sofa](https://sillandsofa.com), a site that matches robot vacuums to real homes.
 
@@ -8,6 +8,8 @@ vacuums sold in the US, with the maker's source page and the date we read it. Co
 - This file: `data.csv` (one row per robot; inches first, the maker's millimetres beside them where given)
 - How the figures are read, and why makers' numbers aren't comparable: https://sillandsofa.com/door-sills and
   https://sillandsofa.com/robot-height
+
+Updated from the Sill & Sofa source build on October 31, 2026. The CSV is generated from the same sourced model database as the robot-height and door-sill guides; see each row for the manufacturer reference and date read.
 
 ## Columns
 
